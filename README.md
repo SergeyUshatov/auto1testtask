@@ -10,3 +10,5 @@ mvn clean install test allure:report
 ```
 
 Report will be generated to the target/allure-report directory.
+
+Tested on Chrome v74 and Firefox v67.
