@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Auto1 test task suite" verbose="1" >
+    <test name="filterCarsFrom2015AndSortByPriceDesc" >
+        <classes>
+            <class name="ui_tests.SearchCarTests" />
+        </classes>
+    </test>
+</suite>
