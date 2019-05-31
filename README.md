@@ -8,3 +8,5 @@ How to run test:
 cd path_to_project
 mvn clean install test allure:report
 ```
+
+Report will be generated to the target/allure-report directory.
